@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Josẽ Menescal Neto
+- 👋 Hi, I’m José Menescal Neto
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning GIT
 - 💞️ I’m looking to collaborate on programa
